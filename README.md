@@ -23,7 +23,8 @@ The bike share service might consider targeted promotions or incentives to encou
 
 #### Average Trip Duration Graph
 This is is a bar chart that compares the average trip duration for casual and member users on different days of the week.
-![Screenshot 2024-08-22 210147](https://github.com/user-attachments/assets/d4c65f08-87c5-4925-a907-1456a499186b)
+![averageduration rider](https://github.com/user-attachments/assets/5acb43bc-0543-4e2f-9046-773ed5435df6)
+
 
 #### Key Observations
 ##### Member vs. Casual
